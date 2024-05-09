@@ -66,11 +66,12 @@ Welcome to my portfolio for cybersecurity. This is my project repository, includ
 
 - Certified Information Systems Security Professional (CISSP)
 
-- Offensive Security Certified Professional (OSCP)
+- CompTIA Cyber Security Analyst Certification (CySA+)
 
-- Certified Ethical Hacker (CEH)
+- CompTIA Security+ (Sec+)
 
-- CompTIA Security+
+- Google Cyber Security Certification 
+
 
 
 
@@ -78,7 +79,7 @@ Welcome to my portfolio for cybersecurity. This is my project repository, includ
 
 
 
-I would gladly collaborate with any cybersecurity enthusiasts out there on a similar project, so please do get in touch. My email is [your.email@example.com](mailto:your.email@example.com) and you can find me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+I would gladly collaborate with any cybersecurity enthusiasts out there on a similar project, so please do get in touch. My email is [Cory.Houck2023@gmail.com](mailto:Cory.Houck2023@gmail.com) and you can find me on [LinkedIn](https://www.linkedin.com/in/cory-houck-232598293/).
 
 
 
