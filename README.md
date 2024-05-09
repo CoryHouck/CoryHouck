@@ -1,4 +1,4 @@
-## **Cybersecurity Portfolio**
+# **Cory Houcks Cybersecurity Portfolio**
 
 Welcome to my cybersecurity portfolio . This is my project repository, including work I have done for cybersecurity. This includes penetration testing, incident response, and more. I consider this page my little fraction of cyberspace, encompassing what I am good at when it comes to securing systems and, most importantly, the data they hold.
 
