@@ -1,47 +1,53 @@
-# **Cory's Cybersecurity Portfolio**
+# Hello, I'm Cory Houck
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my cybersecurity portfolio . This is my project repository, including work I have done for cybersecurity. This includes penetration testing, incident response, and more. I consider this page my little fraction of cyberspace, encompassing what I am good at when it comes to securing systems and, most importantly, the data they hold.
+Welcome to my cybersecurity portfolio . This is my project repository, including work I have done for cyber security. This includes penetration testing, incident response, and more. I consider this page my little fraction of cyberspace, encompassing what I am good at when it comes to securing systems and, most importantly, the data they hold
+## Objective
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Projects
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-### 1. Penetration Testing Suite
-- **Repository Link:** [Penetration Testing Suite](https://github.com/username/penetration-testing-suite)
-
-
-### 2. Threat Intelligence Dashboard
-- **Repository Link:** [Threat Intelligence Dashboard](https://github.com/username/threat-intelligence-dashboard)
-
-
-### 3. Incident Response Automation
-- **Repository Link:** [Incident Response Automation](https://github.com/username/incident-response-automation)
-
-
-## Contributions
-
-
-
-
-
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 ## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
-- CompTIA Cyber Security Analyst Certification (CySA+)
-- CompTIA Security+ (Sec+)
-- Google Cyber Security Professional Certification 
-
-
-
-
-## Get in Touch
-
-
-
-I would gladly collaborate with any cybersecurity enthusiasts out there on a similar project, so please do get in touch. My email is [Cory.Houck2023@gmail.com](mailto:Cory.Houck2023@gmail.com) and you can find me on [LinkedIn](https://www.linkedin.com/in/cory-houck-232598293/).
-
-
-
-Thank you for visiting my cybersecurity portfolio! Stay secure. Stay vigilant.
+## Projects
+- Detection Lab
+- SOC Automation Project
