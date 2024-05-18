@@ -5,7 +5,7 @@ Welcome to my cybersecurity portfolio . This is my project repository, including
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+# Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 
-## Tools
+# Tools
 
 ### Network
 <div>
@@ -40,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+# Certifications
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-2A72AC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -48,5 +48,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
+# Projects
+### Applying file permissions in Linux
+### Automation with Python
+### Conducting a Security Audit
+### Conducting a Vulnerability Assessment
+### Documenting security incidents
+### Filtering SQL queries
+### Learning network and OS hardening techniques
