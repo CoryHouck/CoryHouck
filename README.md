@@ -9,8 +9,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Automation: Writing scripts to automate tasks| <a href="https://google.com">Detection Lab</a>|
+| Classifaction: Assets, Threats, Vulnerabilities | <a href="https://google.com">Detection Lab</a>|
+| Conducting Audits: Managing Security Risks  | <a href="https://google.com">Detection Lab</a>|
+| Linux : Managing file permissions  | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SQL & Databases: Applying filters to Database queries | <a href="https://google.com">Detection Lab</a>|
+
 
 
 ## Tools
