@@ -2,21 +2,10 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my cybersecurity portfolio . This is my project repository, including work I have done for cyber security. This includes penetration testing, incident response, and more. I consider this page my little fraction of cyberspace, encompassing what I am good at when it comes to securing systems and, most importantly, the data they hold
+
+
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-# Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Automation: Writing scripts to automate tasks| <a href="https://google.com">Detection Lab</a>|
-| Classifaction: Assets, Threats, Vulnerabilities | <a href="https://google.com">Detection Lab</a>|
-| Conducting Audits: Managing Security Risks  | <a href="https://google.com">Detection Lab</a>|
-| Linux : Managing file permissions  | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| SQL & Databases: Applying filters to Database queries | <a href="https://google.com">Detection Lab</a>|
-
-
 
 # Tools
 
@@ -58,11 +47,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-# Projects
-### Applying file permissions in Linux
-### Automation with Python
-### Conducting a Security Audit
-### Conducting a Vulnerability Assessment
-### Documenting security incidents
-### Filtering SQL queries
-### Learning network and OS hardening techniques
